@@ -1,2 +1,2 @@
-config-dev:
-  info:master dev branch
+config:
+  info: master dev branch
